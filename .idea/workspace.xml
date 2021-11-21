@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b0acae7-4b24-4c7e-b008-f03a47945259" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-api-commons/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-aerver7001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server7002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server7001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumerconsul-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-feign-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-gateway-gateway9527/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-center-3344/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-client3355/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-client3366/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9002/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-sentinel-service8401/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9003/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9004/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-consumer-nacosorder84/target/" />
+    <ignored path="$PROJECT_DIR$/seata-order-service2020/target/" />
+    <ignored path="$PROJECT_DIR$/seata-order-service2001/target/" />
+    <ignored path="$PROJECT_DIR$/seata-storage-service2002/target/" />
+    <ignored path="$PROJECT_DIR$/seata-account-service2003/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cloud2020$GatewayMain9527.ic" NAME="GatewayMain9527 Coverage Results" MODIFIED="1617856754957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.springcloud.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cloud2020$ConfigCenterMain3344.ic" NAME="ConfigCenterMain3344 Coverage Results" MODIFIED="1617874493408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.springcloud.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="102" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/SeataOrderMain2001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/OrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/SeataAccountServiceMain2003.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/service/impl/AccountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/0.9.0/seata-all-0.9.0-sources.jar!/io/seata/spring/annotation/GlobalTransactional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/0.9.0/seata-all-0.9.0-sources.jar!/io/seata/tm/api/transaction/TransactionInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/controller/AccountController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/SeataStorageServiceMain2002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spans</find>
+      <find>ribbon</find>
+      <find>HystrixCommand</find>
+      <find>3306</find>
+      <find>parent</find>
+      <find>mysql.version</find>
+      <find>zip</find>
+      <find>dev</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacosorder84/src/main/java/com/atguigu/springcloud/config/config.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacosorder84/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacosorder84/src/main/java/com/atguigu/springcloud/NacosOrder84.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacosorder84/src/main/java/com/atguigu/springcloud/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacosorder84/src/main/java/com/atguigu/springcloud/controller/CircleBreakerController.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacosorder84/src/main/java/com/atguigu/springcloud/service/PaymentFallbackService.java" />
+        <option value="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/impl/PaymentHystrixServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/resources/registry.conf" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/domain/CommonResult.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/domain/Order.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/SeatsOrder2020.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/order/OrderDAo.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/resources/mapper/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/service/StorageService.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2020/src/main/java/com/atguigu/springcloud/config/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/config/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/SeataOrderMain2001.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/domain/Storage.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/dao/StorageDao.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/mapper/StorageMapper.xml" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/service/StorageService.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/service/impl/StorageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/config/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/SeataStorageServiceMain2002.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/domain/Account.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/AccountMapper.xml" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/AeataAccountServiceMain2003.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/SeataAccountServiceMain2003.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/controller/StorageController.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/StorageService.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/dao/AccountDao.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/controller/AccountController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\ali_repository" />
+        <option name="mavenHome" value="D:/javaTools/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\javaTools\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloudalibaba-consumer-nacos-order84" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloudalibaba-consumer-nacos-order84" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="832" />
+    <option name="y" value="121" />
+    <option name="width" value="1286" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="cloud2020" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="cloud-api-commons" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="cloud-api-commons" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="cloud2020" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="cloud-api-commons" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="JGitEnvironmentRepository&#9;PSI&#9;JAVA://org.springframework.cloud.config.server.environment.JGitEnvironmentRepository&#10;HystrixCommand&#9;FILE&#9;jar://D:/java/ali_repository/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18.jar!/com/netflix/hystrix/HystrixCommandProperties.class&#10;IRule&#9;FILE&#9;jar://D:/java/ali_repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java&#10;IRu&#9;FILE&#9;jar://D:/java/ali_repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java&#10;Irule&#9;PSI&#9;JAVA://com.netflix.loadbalancer.IRule" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637463501062" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.springcloud.config" />
+      <recent name="com.atguigu.springcloud.controller" />
+      <recent name="com.atguigu.springcloud" />
+      <recent name="springcloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\cloud2020\seata-account-service2003\src\main\resources" />
+      <recent name="D:\java\cloud2020\seata-account-service2003\src\main\java\com\atguigu\springcloud" />
+      <recent name="D:\java\cloud2020\seata-storage-service2002\src\main\java\com\atguigu\springcloud" />
+      <recent name="D:\java\cloud2020\seata-storage-service2002\src\main\resources" />
+      <recent name="D:\java\cloud2020\seata-order-service2020\src\main\java\com\atguigu\springcloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeataAccountServiceMain2003">
+    <configuration name="CloudAlibabaMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.CloudAlibabaMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudAlibabaMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.CloudAlibabaMain9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-center-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigCenterMain3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClientMain3366" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-eureka-server7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-hystrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.FeignHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignOrder80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.FeignOrder80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-gateway-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.GatewayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosOrder84" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-consumer-nacosorder84" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.NacosOrder84" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosProviderMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.atguigu.springcloud.NacosProviderMain83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OderMainConsul80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerconsul-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OderMainConsul80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-providerconsul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Payment8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment9003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Payment9003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment9004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Payment9004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitConsumerMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8802" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.RabbitConsumerMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitConsumerMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.RabbitConsumerMain8803" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqProviderMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-provider8801" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.RabbitmqProviderMain8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataAccountServiceMain2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.SeataAccountServiceMain2003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMain2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.SeataOrderMain2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageServiceMain2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.SeataStorageServiceMain2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-sentinel-service8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Service8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.Payment8006" />
+      <item itemvalue="Spring Boot.OderMainConsul80" />
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.PaymentMain8002" />
+      <item itemvalue="Spring Boot.FeignHystrixMain80" />
+      <item itemvalue="Spring Boot.FeignOrder80" />
+      <item itemvalue="Spring Boot.ConfigCenterMain3344" />
+      <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+      <item itemvalue="Spring Boot.GatewayMain9527" />
+      <item itemvalue="Spring Boot.ConfigClientMain3355" />
+      <item itemvalue="Spring Boot.ConfigClientMain3366" />
+      <item itemvalue="Spring Boot.RabbitmqProviderMain8801" />
+      <item itemvalue="Spring Boot.RabbitConsumerMain8802" />
+      <item itemvalue="Spring Boot.RabbitConsumerMain8803" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.Payment9004" />
+      <item itemvalue="Spring Boot.Payment9003" />
+      <item itemvalue="Spring Boot.NacosProviderMain83" />
+      <item itemvalue="Spring Boot.CloudAlibabaMain9001" />
+      <item itemvalue="Spring Boot.CloudAlibabaMain9002" />
+      <item itemvalue="Spring Boot.Service8401" />
+      <item itemvalue="Spring Boot.NacosOrder84" />
+      <item itemvalue="Spring Boot.SeataOrderMain2001" />
+      <item itemvalue="Spring Boot.SeataStorageServiceMain2002" />
+      <item itemvalue="Spring Boot.SeataAccountServiceMain2003" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SeataAccountServiceMain2003" />
+        <item itemvalue="Spring Boot.SeataStorageServiceMain2002" />
+        <item itemvalue="Spring Boot.SeataOrderMain2001" />
+        <item itemvalue="Spring Boot.Service8401" />
+        <item itemvalue="Spring Boot.NacosOrder84" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b0acae7-4b24-4c7e-b008-f03a47945259" name="Default Changelist" comment="" />
+      <created>1617337370143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617337370143</updated>
+      <workItem from="1617337374286" duration="3958000" />
+      <workItem from="1617427642854" duration="8301000" />
+      <workItem from="1617436015827" duration="4566000" />
+      <workItem from="1617440657944" duration="4236000" />
+      <workItem from="1617593412401" duration="16915000" />
+      <workItem from="1617697579804" duration="10421000" />
+      <workItem from="1617760429125" duration="27145000" />
+      <workItem from="1617849443966" duration="28239000" />
+      <workItem from="1617933483749" duration="11511000" />
+      <workItem from="1617967844143" duration="3750000" />
+      <workItem from="1618021218452" duration="10591000" />
+      <workItem from="1618116227614" duration="4358000" />
+      <workItem from="1618199685948" duration="741000" />
+      <workItem from="1618205518006" duration="598000" />
+      <workItem from="1618293008507" duration="61000" />
+      <workItem from="1618564184818" duration="727000" />
+      <workItem from="1619934566799" duration="30000" />
+      <workItem from="1619935261571" duration="451000" />
+      <workItem from="1619936517955" duration="1533000" />
+      <workItem from="1620787627782" duration="20699000" />
+      <workItem from="1620876442445" duration="746000" />
+      <workItem from="1620979283615" duration="789000" />
+      <workItem from="1620980265330" duration="492000" />
+      <workItem from="1620981016115" duration="294000" />
+      <workItem from="1621133741748" duration="583000" />
+      <workItem from="1634732181892" duration="116000" />
+      <workItem from="1637205066140" duration="29732000" />
+      <workItem from="1637289299165" duration="28253000" />
+      <workItem from="1637379510248" duration="15862000" />
+      <workItem from="1637463445587" duration="651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_test - 2021.04.08 at 14h 11m 53s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2021.04.08 at 14h 12m 03s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="236355000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31663114" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14642082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38720173" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.23318872" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.19522777" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Reviews" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.329718" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.49946696" visible="true" weight="0.2635575" />
+      <window_info anchor="bottom" id="JProfiler" order="18" />
+      <window_info anchor="bottom" id="Docker" order="19" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49836066" weight="0.36300638" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="News Feed" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50163937" side_tool="true" weight="0.16791044" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/PaymentHystrixMain8001.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/filter/GateWayFilter.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/controller/AccountController.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>accountDao.decrease(userId, money)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>accountService.decrease(order.getUserId(), order.getMoney())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ApplicationContext</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.context.ApplicationContext</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>exchange</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>restTemplate.getForObject(url + &quot;/payment/lb&quot;, String.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>serviceInstance</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>restTemplate.postForObject(URL + &quot;/payment/create&quot;, payment, CommonResult.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>restTemplate.getForObject(URL + &quot;/payment/get/&quot;+id, CommonResult.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>restTemplate</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.2.RELEASE/spring-beans-5.2.2.RELEASE.jar!/org/springframework/beans/factory/annotation/Qualifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk1.8.0_152/src.zip!/javax/annotation/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/config/sds.java" />
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/domain/CommonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/domain/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/file.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/registry.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/service/impl/StorageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/config/DataSourceProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/service/StorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="993">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/domain/CommonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/file.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/dao/StorageDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/config/DataSourceProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1154#1155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/domain/CommonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/mapper/StorageMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.4.0/feign-core-10.4.0-sources.jar!/feign/FeignException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/domain/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE-sources.jar!/org/springframework/web/bind/annotation/PostMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/config/DataSourceProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/StorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="22" column="102" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/AccountMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/0.9.0/seata-all-0.9.0.jar!/io/seata/spring/annotation/GlobalTransactional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/controller/StorageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/SeataOrderMain2001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/atguigu/springcloud/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/SeataAccountServiceMain2003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/0.9.0/seata-all-0.9.0-sources.jar!/io/seata/spring/annotation/GlobalTransactional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/0.9.0/seata-all-0.9.0-sources.jar!/io/seata/tm/api/transaction/TransactionInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/atguigu/springcloud/SeataStorageServiceMain2002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/atguigu/springcloud/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cloud-api-commons</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
